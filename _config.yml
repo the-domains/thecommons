@@ -1,0 +1,14 @@
+layout_spectrum: 0.46107506239786744
+typography_spectrum: 0.4206883502192795
+color:
+  brandStrength: 0.07405798672698438
+  lightness: 0.2535371568519622
+  saturation: 0.07216249173507094
+  rhythmicContrast: 0.09315709955990314
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: TheCommons
